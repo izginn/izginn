@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @izginn
 - 📚 I'm currently studying in Gazi University Computer Programming
-- 🌱 I’m currently learning C# and Python
+- 🌱 I’m currently learning C#,Python and Java
 - 📫 How to reach me izginsaglam@hotmail.com
 
 
