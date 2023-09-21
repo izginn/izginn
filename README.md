@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @izginn
-- 📚 I'm currently studying in Gazi University Computer Programming
 - 📫 How to reach me izginsaglam@hotmail.com
 
 
